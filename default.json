@@ -611,7 +611,7 @@
         "id": "xiaoji",
         "name": "小鸡资源",
         "baseUrl": "https://api.xiaojizy.live/provide/vod",
-        "group": "premiumxxx",
+        "group": "premium",
         "enabled": true,
         "priority": 21
     },
